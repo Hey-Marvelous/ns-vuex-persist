@@ -1,5 +1,5 @@
 import VuexPersistence from 'vuex-persist'
-import * as AppSettings from 'application-settings'
+import * as AppSettings from '@nativescript/core/application-settings';
 
 /**
  * Native storage implementation
